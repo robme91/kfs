@@ -472,7 +472,7 @@ bzw. auf mehreren Ebenen gleichzeitig kommunizieren
 #### Konfliktlösung (alle einschließlich)
 - Gespräch: Stufe 1-3
 - Konfliktmoderation: Stufe 2-4
-- Meditation: Stufe 4-7
+- Mediation: Stufe 4-7
 - Schiedsverfahren: Stufe 6 - 8 
 - Jursitische Verfahren/Machtanwendung: Stufe 7-9  
 
